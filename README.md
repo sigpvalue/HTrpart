@@ -1,0 +1,1 @@
+Recursively partition a dataset with a continuous or categorical response using the maximum mean rank (continous outcome) or proportion of any observed class (categorical outcome) as the splitting mechanism to allow for hypothesis testing of each split. The partitioning will stop when there are not more statistically significant splits.
